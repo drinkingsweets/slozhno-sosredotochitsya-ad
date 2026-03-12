@@ -29,7 +29,7 @@ cd <name-folder>
 Клонируйте репозиторий:
 
 ```shell
-git clone https://github.com/intredd/slozhno-sosredotochitsya.git
+git clone https://github.com/drinking_sweets/slozhno-sosredotochitsya.git
 ```
 
 Откройте файл `index.html` в браузере для просмотра проекта.
