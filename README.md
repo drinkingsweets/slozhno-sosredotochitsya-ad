@@ -1,3 +1,5 @@
+https://github.com/drinkingsweets/slozhno-sosredotochitsya-ad
+
 # Сложно сосредоточиться
 Веб-приложение для демонстрации работы с HTML, CSS и JavaScript, созданное для улучшения навыков веб-разработки.
 
@@ -29,7 +31,7 @@ cd <name-folder>
 Клонируйте репозиторий:
 
 ```shell
-git clone https://github.com/drinking_sweets/slozhno-sosredotochitsya.git
+git clone https://github.com/drinkingsweets/slozhno-sosredotochitsya.git
 ```
 
 Откройте файл `index.html` в браузере для просмотра проекта.
